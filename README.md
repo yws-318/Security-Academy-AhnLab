@@ -1,15 +1,6 @@
 ### Security Academy AhnLab
 
-<div align="center"> 
-  <h1> <span style="font-size: 80px; color: #1F4787">AhnLab</span> </h1>
-  <br/>
-</div>
-
-$\bf\huge\color{#1F4787} AnhLab $
-
-${\textsf{\color{#1F4787}AhnLab}}$
-
-$$\bf\huge\color{#1F4787} AnhLab $$
+# $$\bf\huge\color{#1F4787} AnhLab $$
 
 ## Curriculum category
 
