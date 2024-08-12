@@ -1,4 +1,6 @@
 # dbg1_how_to_use_dbg
+
+## Q1
 x32dbg 프로그램 실행   
 dbg1_how_to_use_dbg 열기   
 
@@ -76,3 +78,16 @@ cmp 비교 자체를 같은 주소를 비교하게 만들어버림
 mov ~ [ebp-8]   
 cmp ~ [ebp-8]   
 ![8,18](8,18.png)
+
+### ZeroFlag
+ZF   
+0과 1을 기준으로 동작하기에    
+ZF를 수정
+
+## Q2
+### eax
+xor eax,eax   
+ret
+
+mov eax,0   
+ret
